@@ -26,4 +26,10 @@ Bachelor of Computer Applications, Computer Science
 May 2017 - Jun 2020  
 ### Udaya Public School Faizabad  
 High School and Intermediate, Science and I.P.  
-2015 - 2017
+2015 - 2017  
+
+## Contact
+### Mail  
+mohitsinghkush700@gmail.com  
+### LinkedIn
+www.linkedin.com/in/mohit-singh-kushwaha-4028b4171/
