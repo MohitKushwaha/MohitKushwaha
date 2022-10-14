@@ -3,10 +3,14 @@
 Creative from heart❤! Love painting, coding, designing, gardening, reading, gaming, exploring, writing, eating😋😋 Strongly believe in power of music, A constant learner!
 Interested in Web and Cloud🤓  
 
-## Experience  
+## Experience 
+### Software Developer
+Mobile Programming India Private Limited · Full-time  
+Sept 2022 - Present  
+Gurugram, Haryana, India  
 ### Design and Tech HOD
-Interlancy Education · Full-time  
-Feb 2021 - Present  
+Interlancy Education Private Limited · Full-time  
+Feb 2021 - Sept 2022  
 Lucknow, Uttar Pradesh, India   
 ### Technical Support Specialist  
 Udaya Public School, Ayodhya · Full-time  
@@ -18,13 +22,13 @@ Aug 2018 - Jan 2019 · 6 mos
 Ayodhya, Uttar Pradesh, India  
 
 ## Education  
-### Dr. Ram Manohar Lohia Awadh University, Faizabad  
+### Dr. Ram Manohar Lohia Avadh University, Ayodhya 
 Master of Computer Applications - MCA, Computer Science  
-2020 - 2022  
+June 2020 - Sept 2022  
 ### Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal  
-Bachelor of Computer Applications, Computer Science  
+Bachelor of Computer Applications - BCA, Computer Science  
 May 2017 - Jun 2020  
-### Udaya Public School Faizabad  
+### Udaya Public School, Ayodhya  
 High School and Intermediate, Science and I.P.  
 2015 - 2017  
 
