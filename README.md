@@ -1,12 +1,12 @@
 # Mohit Singh Kushwaha  
-### Software Developer | NodeJS | NestJS | Angular | RxJS | Jest | AWS | Author @ Medium | Illustrator | Designer  
-Creative from heart❤! Love painting, coding, designing, gardening, reading, gaming, exploring, writing, eating😋😋 Strongly believe in power of music, A constant learner!
+### Software Developer | NodeJS | NestJS | Angular | RxJS | Jest | AWS | Author @ Medium  
+Creative from heart❤! Love painting, coding, designing, gardening, reading, gaming, exploring, writing, eating😋😋 A constant learner!
 Interested in Web and Cloud🤓  
 
 ## Experience 
 ### Software Developer
 Mobile Programming India Private Limited · Full-time  
-Sept 2022 - Present  
+Sept 2022 - Sept 2026  
 Gurugram, Haryana, India  
 ### Design and Tech HOD
 Interlancy Education Private Limited · Full-time  
